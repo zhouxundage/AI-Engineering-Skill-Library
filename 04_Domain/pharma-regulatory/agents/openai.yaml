@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pharma Regulatory｜药企约束与证据映射"
+  short_description: "在药企项目中把提供的 SOP、质量体系和适用法规映射为系统控制、验证证据与差距"
+  default_prompt: "使用 $pharma-regulatory，结合当前任务和已知约束，完成相应工作并提供可检查的成果与证据。"
+policy:
+  allow_implicit_invocation: true

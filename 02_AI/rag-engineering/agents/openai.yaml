@@ -1,0 +1,6 @@
+interface:
+  display_name: "RAG Engineering｜检索增强工程"
+  short_description: "构建或修复基于文档知识的检索增强流程，处理来源、解析、切分、权限、检索、引用和索引更新"
+  default_prompt: "使用 $rag-engineering，结合当前任务和已知约束，完成相应工作并提供可检查的成果与证据。"
+policy:
+  allow_implicit_invocation: true

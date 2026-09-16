@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "library": "AI Engineering Skill Library",
+  "version": "0.1.0",
+  "language": "zh-CN",
+  "skills": [
+    {
+      "name": "ai-project-architect",
+      "title": "AI Project Architect｜项目工程总控",
+      "category": "00_Master",
+      "path": "00_Master/ai-project-architect",
+      "version": "0.1.0"
+    },
+    {
+      "name": "architecture-design",
+      "title": "Architecture Design｜系统架构设计",
+      "category": "01_Engineering",
+      "path": "01_Engineering/architecture-design",
+      "version": "0.1.0"
+    },
+    {
+      "name": "software-engineering",
+      "title": "Software Engineering｜可维护实现",
+      "category": "01_Engineering",
+      "path": "01_Engineering/software-engineering",
+      "version": "0.1.0"
+    },
+    {
+      "name": "testing-validation",
+      "title": "Testing & Validation｜测试与验收",
+      "category": "01_Engineering",
+      "path": "01_Engineering/testing-validation",
+      "version": "0.1.0"
+    },
+    {
+      "name": "deployment-operation",
+      "title": "Deployment & Operation｜部署与运行",
+      "category": "01_Engineering",
+      "path": "01_Engineering/deployment-operation",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ai-system-design",
+      "title": "AI System Design｜AI 系统设计",
+      "category": "02_AI",
+      "path": "02_AI/ai-system-design",
+      "version": "0.1.0"
+    },
+    {
+      "name": "rag-engineering",
+      "title": "RAG Engineering｜检索增强工程",
+      "category": "02_AI",
+      "path": "02_AI/rag-engineering",
+      "version": "0.1.0"
+    },
+    {
+      "name": "agent-engineering",
+      "title": "Agent Engineering｜工具执行与状态管理",
+      "category": "02_AI",
+      "path": "02_AI/agent-engineering",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ai-evaluation",
+      "title": "AI Evaluation｜模型质量评估",
+      "category": "02_AI",
+      "path": "02_AI/ai-evaluation",
+      "version": "0.1.0"
+    },
+    {
+      "name": "product-strategy",
+      "title": "Product Strategy｜产品策略",
+      "category": "03_Product",
+      "path": "03_Product/product-strategy",
+      "version": "0.1.0"
+    },
+    {
+      "name": "mvp-design",
+      "title": "MVP Design｜最小可用产品",
+      "category": "03_Product",
+      "path": "03_Product/mvp-design",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ux-ui-design",
+      "title": "UX/UI Design｜交互与界面",
+      "category": "03_Product",
+      "path": "03_Product/ux-ui-design",
+      "version": "0.1.0"
+    },
+    {
+      "name": "clinical-trial-ai",
+      "title": "Clinical Trial AI｜临床试验 AI 工作流",
+      "category": "04_Domain",
+      "path": "04_Domain/clinical-trial-ai",
+      "version": "0.1.0"
+    },
+    {
+      "name": "biostatistics",
+      "title": "Biostatistics｜生物统计分析工程",
+      "category": "04_Domain",
+      "path": "04_Domain/biostatistics",
+      "version": "0.1.0"
+    },
+    {
+      "name": "pharma-regulatory",
+      "title": "Pharma Regulatory｜药企约束与证据映射",
+      "category": "04_Domain",
+      "path": "04_Domain/pharma-regulatory",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Evaluation｜模型质量评估"
+  short_description: "建立和执行 LLM、RAG 或 Agent 的任务质量评估，管理黄金样例、指标、人工评分、回归与发布条件"
+  default_prompt: "使用 $ai-evaluation，结合当前任务和已知约束，完成相应工作并提供可检查的成果与证据。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Biostatistics｜生物统计分析工程"
+  short_description: "把临床研究问题与 SAP 转成可复现统计规格、实现和核验，处理估计目标、分析集、模型、缺失数据与敏感性分析"
+  default_prompt: "使用 $biostatistics，结合当前任务和已知约束，完成相应工作并提供可检查的成果与证据。"
+policy:
+  allow_implicit_invocation: true

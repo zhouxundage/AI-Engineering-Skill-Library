@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI System Design｜AI 系统设计"
+  short_description: "设计或改造 LLM 应用，判断规则、检索、模型调用或 Agent 的合理边界，并定义提示、结构化输出、数据与评估契约"
+  default_prompt: "使用 $ai-system-design，结合当前任务和已知约束，完成相应工作并提供可检查的成果与证据。"
+policy:
+  allow_implicit_invocation: true

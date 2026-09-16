@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deployment & Operation｜部署与运行"
+  short_description: "准备或执行已授权的软件部署、环境迁移和运行维护，设计发布、健康检查、监测和恢复"
+  default_prompt: "使用 $deployment-operation，结合当前任务和已知约束，完成相应工作并提供可检查的成果与证据。"
+policy:
+  allow_implicit_invocation: true

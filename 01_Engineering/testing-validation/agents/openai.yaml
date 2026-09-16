@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing & Validation｜测试与验收"
+  short_description: "为软件功能设计并执行基于风险的单元、集成、端到端和业务验收，形成需求到证据的映射"
+  default_prompt: "使用 $testing-validation，结合当前任务和已知约束，完成相应工作并提供可检查的成果与证据。"
+policy:
+  allow_implicit_invocation: true

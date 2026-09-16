@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Project Architect｜项目工程总控"
+  short_description: "规划或推进新项目、系统性重构与原型产品化，串联需求、约束、架构、实现和验收"
+  default_prompt: "使用 $ai-project-architect，结合当前任务和已知约束，完成相应工作并提供可检查的成果与证据。"
+policy:
+  allow_implicit_invocation: true
